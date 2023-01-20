@@ -1,0 +1,33 @@
+
+Proceso creativo
+
+    1. Preparación -> investigar y recopilar información
+    2. Incibación -> Experimentar y sintetizar toda le información
+    3. Iluinación -> Idear e imaginar cómo podría llegar a ser el resultado
+    4. Evaluación -> criticar y replantear las soluciones a las que hemos llegado
+    5. Implementación -> construir y trabajar en nuestro proyecto
+
+6 conceptos básicos del diseño
+
+    1. Balance -> La estructura y estabilidad de una composición en donde la posición de cada elemento está dada por su peso visual. Puede ser simétrico o asimétrico.
+    2. Contraste -> lo usamos para señalar un concepto marcando la diferencia, ya sea por tamaño, color, etc. de dos elementos distintos.
+    3. Alineación -> nos permite crear una ruta visual entre diferentes elementos
+    4. Proximidad -> nos permite agrupar diferentes elementos. Por formas, colores, etc. o físicamente.
+    5. Repetición -> se usa para generar un concepto de marca. Muchas maras usan siempre los mismos colores, formas, tipos de letras, etc. Ayuda a reforzar un concepto.
+    6. Espacio -> El espacio lo podemos aprovechar colocando elementos de muchas maneras. Podemos poner elementos para reforzar una idea, siempre evitando recargar la composición.
+
+Responsive design
+
+Metodología para desiñar para cada una de las plataformas. Para esto, es recomendable usar colums y rows
+Hay distintas Metodologías para hacer el Responsive: 
+    
+    1. Progressive enhancement -> esta parte de una base sólida y básica y se le va añadiendo capas de complejidad para que todos los dispositivos puedan usarla, desde los básicos hasta los más sofisticados
+    2. Graceful degradation -> es lo contrario a la anterior, partidmos de una complejidad muy alta y vamos quitándole capas para adaptarlo a dispositivos menos complejos 
+
+Mejora progresiva aplicada:
+
+    4. JS   -   4. Animaciones
+    3. CSS  -   3. Diseño visual 
+    2. HTML -   2. WIreframes
+    1. Data -   1. Contenido
+
