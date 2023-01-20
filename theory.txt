@@ -41,3 +41,83 @@ Las partes de un Brief son:
     - Competencia
     - Cómo será la distribución
 
+Diseño UX
+
+Es el diseño enfocado en el usuario y en su usabilidad y experiencia
+Tiene varias etapas:
+
+    1. Investigación de cómo nuestros U se comportan
+    2. Análisis de la infomación y agrupación según características
+    3. Diseño de los prototipos y mejores prácticas para nuestros U finales
+    4. Peuebas de U's con MVPs como pueden ser los interactivos o pruebas en papel
+
+    + 1er paso del diseño UX
+
+        Requerimientos. Estos son la "transformación" de los objetivos que queremos conseguir al papel.
+        
+            Objetivo: dar a conocer las promociones -> Requerimiento: hacer un menú donde muestre las promociones 
+            Objetivo: hacer pedidos online -> Requerimiento: Tener una pasarela de pagos
+        
+    + 2o  deiseño de WIreframes y componentes. Son los diseños más básicos de los componentes
+
+
+Diseño UI
+
+Esta se enfoca en la capa de estilos visuales que va por encima de la estructura/arquitectura del contenido (UX) 
+P
+ara generar las ideas podemos tener Moodboards, son conjunto de elementos en un mismo lugar (tablero, pinterest, etc) los cuales nos va a ayudar a inspirarnos para crear los elementos de las app
+
+Teoria de color  -> se enfoca en la psicología del color, la que estudia como nuestro cerebro percibe e interpreta los colores (imagen -> color-psicology.png)
+
+    - Los colores a implementar en la web deben ser Hex o RGB ya que son más brillantes
+    - Debemos crear códigos de colores consistentes
+    - Menos es más. Y en colores también
+    - Definir una paleta de color
+        + Construcción: 
+            Herramientas: color.adobe.com, coolors
+
+Tipografías. 
+
+    - No tener mas de 2/3 
+    - Debemos usar fuentes estandar 
+    - Tienen que ser legibles
+    - Mantener altos de línea
+    - Hay varios tipos: serif (serif.png), sans-serif(snas-serif.png), script(script.png)
+    - Herramientas: font.google.com
+
+**CSS VARIABLES** -> FUTURO DE LOS CAMBIOS DE color
+
+Imágenes para la web 
+
+    Tipos de imagenes
+
+        - PNG -> menos recomendadas, estas tienen el fondo transparente y son recomendadas para fotos decorativas
+        - JPG -> es el formato ideal ya que no son muy pesadas. Son ideales para fotografias o degradados
+        - Gif -> no abusar ya que son muy pesados,  poner algo pequeños está bien pero no pasarnos 
+        - SVG -> verctores y se pueden modiicar con css y son recomendables para cosas pequeñas como icons
+
+    Recomendaciones:
+
+        - Evitar exportar imagenes con texto
+        - Exportar las imagenes al tamaño final 
+        - Usar 'lazy loading' (carga solo cuando está en la foto)
+        - Usar 'tiny png' u otros programas de compresión de imágenes  
+        - Incluir siempre el 'alt text'
+
+Gráficos y animaciones para la web
+
+    Tipos de gráficos 
+
+        - CSS animado -> indicado para animaciones sencillas y tansiciones. Son Transiciones como pueden ser de las de los botones, de imagena a imagen, etc
+        - SVG animado -> indicado para animaciones de elementos vectoriales. recomendadas para aquellas que sean de baja complejidad. Estos también podemos animalos con JS con canvas
+        - JS(Canvas y WebGL) -> indicado para las animaciones complejas como datos o 3D
+        - Videos -> para films de alta complejidad y corta duración. Son muy pesados
+    
+    Recomendaciones 
+
+        - Al elegir las animaciones, elígelas que aporten contenido 
+        - Procura que no se reproduzcan de manera automática, pero si lo hacen, que no tengan sonido
+        - Evitar que las animaciones tengan flashes
+        - Asegúrate que tengan transcripciones para personas invidentes y lectores de pantalla 
+        - Ten la página limpia y no introduzcas más elementos de los que necesitas. No sobrecarges. Keep it simple keep it lean 
+
