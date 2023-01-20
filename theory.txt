@@ -31,3 +31,13 @@ Mejora progresiva aplicada:
     2. HTML -   2. WIreframes
     1. Data -   1. Contenido
 
+Brief
+
+Es el primer elemento que tenemos que tener para contruir una app. Es una hoja de ruta que vamos a ir recorriendo en nuestro proceso creativo.
+Las partes de un Brief son:
+    - Descripción del cliente o producto
+    - Objetivo o retos
+    - Targer o audiencia
+    - Competencia
+    - Cómo será la distribución
+
